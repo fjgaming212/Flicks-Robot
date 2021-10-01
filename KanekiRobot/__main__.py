@@ -74,8 +74,8 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey You, Im Manager And Music Player Bot`
-`Crated By` [Skyzo](https://t.me/XFLSkyzo)
+`Hi, this bot can be used for your group management and can be used to play songs in voice chat`
+`Crated By` [Rizzz](https://t.me/FJ_GAMING)
 """
 
 buttons = [
@@ -92,7 +92,7 @@ buttons = [
     [
         InlineKeyboardButton(text="ɢʀᴏᴜᴘ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Userbot_Support_Id"),
         InlineKeyboardButton(
-            text="ᴄʀᴇᴀᴛᴏʀ", url=f"https://t.me/XFLSkyzo"
+            text="ᴄʀᴇᴀᴛᴏʀ", url=f"https://t.me/FJ_GAMING"
         ),
     ],
     [
@@ -109,7 +109,7 @@ HELP_STRINGS = """
 Kaneki_IMG = "https://telegra.ph/file/3c16568ffc8bb284d6dc6.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [Skyzo](t.me/XFLSkyzo) \
+ You can support the project [Rizzz](t.me/FJ_GAMING) \
  Supporting isnt always financial! [All about music](t.me/userbot_support_id) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
